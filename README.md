@@ -83,5 +83,10 @@ Vgg16 network was used
 ![image](https://user-images.githubusercontent.com/101316217/211270006-fef34cb4-dce6-4fa9-a9c5-6590e597f2b9.png)
 
 
+# Future Work 
+
+Use different networks in the transfer learning part
+
+Models hyperparameters tuning 
 
 
